@@ -4,7 +4,7 @@
 
 ### ER Diagram
 
-![er](er.PNG)
+![er](er.png)
 
 ### Challenges I faced during this phase
 
