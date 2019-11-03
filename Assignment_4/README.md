@@ -15,14 +15,14 @@ warehouse: code (primary key), address, phone
 
 shopping_basket: basket_id
 
-### b.
+### b. Extended ER Diagram without Generalization
 
 ![b.](7.20.b.png)
 
-### c.
+### c. Extended ER Diagram with Generalization
 
 ![c.](7.20.c.png)
 
 ## 7.21
 
-![7.21](7.21.png
+![7.21](7.21.png)
