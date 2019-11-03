@@ -18,3 +18,11 @@ shopping_basket: basket_id
 ### b.
 
 ![b.](7.20.b.png)
+
+### c.
+
+![c.](7.20.c.png)
+
+## 7.21
+
+![7.21](7.21.png
