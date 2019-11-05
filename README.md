@@ -22,7 +22,7 @@ I wanted one customer to output many articles and the arrow notation threw me of
 
 ### Query Screenshot
 
-![phase2](phase2query.png)
+![phase2](phase2query.PNG)
 
 ### Challenges I faced during Phase 2
 
